@@ -1,2 +1,3 @@
 # vsc-commander
-对vscode cli命令的封装
+
+对 vscode cli 命令的封装

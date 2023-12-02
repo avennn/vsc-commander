@@ -18,7 +18,7 @@
     "nodejs",
     "cli"
   ],
-  "author": "Javen Leung <914301050@qq.com>",
+  "author": "Thomas Leung <914301050@qq.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/avennn/vsc-commander/issues"
@@ -36,5 +36,9 @@
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "2.7.1"
   },
-  "files": ["bin", "src", "index.js"]
+  "files": [
+    "bin",
+    "src",
+    "index.js"
+  ]
 }
